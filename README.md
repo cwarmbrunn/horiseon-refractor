@@ -23,7 +23,7 @@
 
 3.  Installation:
 
-    1. Download
+    1. You can clone this repo - no special instructions to load this!
 
 4.  How to Run Project:
 

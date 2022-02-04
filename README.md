@@ -10,7 +10,11 @@
 
     3. Added alt text for the three images on the homepage - added "" alt text for the decorative images that do not affect or impact the understanding a user would have for the site. 
     
-    4. Began nesting CSS selectors based on ones with matching properties. 
+    4. Continued nesting CSS selectors based on ones with matching properties. 
+    
+    5. Siwtched div elements to sections and kept unique class names. 
+
+    6. Replaced div="footer" with footer tag.
 
 3. Installation:
 

@@ -30,3 +30,4 @@
     1. Head over to https://cwarmbrunn.github.io/horiseon-week-1-challenge/ to view the page live!
 
 5.  Screenshots:
+    ![Screenshot of Horiseon website main page](./Horiseon Screenshot.jpg)

@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-
 **Project Title:**
 
 Horiseon Refractoring

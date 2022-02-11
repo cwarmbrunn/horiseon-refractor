@@ -6,6 +6,8 @@ Horiseon Refractoring
 
 **Project Description/Summary:**
 
+Acted as Front End Developer. 
+
 Horiseon is a website that promotes search engine optimization - however, it is lacking semantic HTML elements and has an overuse of CSS elements.
 
 By consolidating CSS elements and adding in semantic HTML elements, this site will have increased accessibility and search engine optimization. As a result, users will be able to find the site more quickly and navigate much more easily with a screen-reader or assistive device.

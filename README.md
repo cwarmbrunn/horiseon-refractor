@@ -2,32 +2,28 @@
 
 1.  Project Title:
 
-    Horiseon Refractor Code
+    Horiseon Refractoring 
 
-2.  Project Description:
+2.  Project Description/Summary:
 
-    Refractoring code for increased accessibility.
+   Horiseon is a website that promotes search engine optimization - however, it is lacking semantic HTML elements and has an overuse of CSS elements. 
+   
+   By consolidating CSS elements and adding in semantic HTML elements, this site will have increased accessibility and  search engine optimization. As a result, users will be able to find the site more quickly and navigate much more easily with a screen-reader or assistive device. 
 
-        1. Adjusted the title from "website" to "Horiseon" for increased visibility.
+3. Technology Used:
 
-        2. Added comments to nest CSS changes that overlapped.
+* HTML
+* CSS
 
-
-        3. Added alt text for the three images on the homepage - added "" alt text for the decorative images that do not affect or impact the understanding a user would have for the site.
-
-        4. Continued nesting CSS selectors based on ones with matching properties.
-
-        5. Siwtched div elements to sections and kept unique class names.
-
-        6. Replaced div="footer" with footer tag.
 
 3.  Installation:
 
-    1. You can clone this repo - no special instructions to load this!
+ You can clone this repo - no special instructions to load this!
 
-4.  How to Run Project:
+4.  Deployed Site:
 
-    1. Head over to https://cwarmbrunn.github.io/horiseon-week-1-challenge/ to view the page live!
+Head over to https://cwarmbrunn.github.io/horiseon-week-1-challenge/ to view the page live!
 
 5.  Screenshots:
-    ![Screenshot of Horiseon website main page](./assets/images/horiseon-screenshot.jpg)
+
+![Screenshot of Horiseon website main page](./assets/images/horiseon-screenshot.jpg)
